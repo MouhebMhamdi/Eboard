@@ -28,7 +28,7 @@ interactive live online teaching sessions
 - Go to Server directory by typing "cd Server" and run "npm install"
 - Run "node server.js" in the server directory
 - Run "npm run start" in the client directory
-- Go to http://localhost:3000 and Enjoy ;)
+- Go to https://eboardwebapp.herokuapp.com/ and Enjoy ;)
 
 ## :bulb: Devoloped With MERN stack
 
